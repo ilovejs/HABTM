@@ -23,6 +23,7 @@
 		</dd>
 	</dl>
 </div>
+<!--css class 'action' means float left and width 33% -->
 <div class="actions">
 	<h3><?php echo __('Actions'); ?></h3>
 	<ul>
